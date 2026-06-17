@@ -3,7 +3,23 @@ export const FooterData = [
     heading: "Explore",
     links: [
       {
-        name: "",
+        name: "Best Sellers",
+        path: "",
+      },
+      {
+        name: "Led & Lighting",
+        path: "",
+      },
+      {
+        name: "New Cars",
+        path: "",
+      },
+      {
+        name: "Old Cars",
+        path: "",
+      },
+      {
+        name: "Dealers",
         path: "",
       },
     ],
